@@ -1,0 +1,3 @@
+[submodule "Marlin/Configurations"]
+	path = Marlin/Configurations
+	url = git@github.com:alansartorio/Configurations.git
